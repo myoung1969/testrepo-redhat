@@ -1,2 +1,2 @@
-this is a test file
-this is a new line on branch master-branch
+This is a test file
+This is a new line on branch master-branch
